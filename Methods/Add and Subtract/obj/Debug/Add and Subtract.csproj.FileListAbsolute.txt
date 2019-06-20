@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Methods\Add and Subtract\bin\Debug\Add and Subtract.exe.config
+C:\Users\malek\source\repos\Methods\Add and Subtract\bin\Debug\Add and Subtract.exe
+C:\Users\malek\source\repos\Methods\Add and Subtract\bin\Debug\Add and Subtract.pdb
+C:\Users\malek\source\repos\Methods\Add and Subtract\obj\Debug\Add and Subtract.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Methods\Add and Subtract\obj\Debug\Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\Add and Subtract\obj\Debug\Add and Subtract.exe
+C:\Users\malek\source\repos\Methods\Add and Subtract\obj\Debug\Add and Subtract.pdb

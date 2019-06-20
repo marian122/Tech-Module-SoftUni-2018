@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\SoftUniFirstLecture\Vacation\bin\Debug\Vacation.exe.config
+C:\Users\malek\source\repos\SoftUniFirstLecture\Vacation\bin\Debug\Vacation.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\Vacation\bin\Debug\Vacation.pdb
+C:\Users\malek\source\repos\SoftUniFirstLecture\Vacation\obj\Debug\Vacation.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\Vacation\obj\Debug\Vacation.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\Vacation\obj\Debug\Vacation.pdb

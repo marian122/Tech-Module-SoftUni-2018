@@ -1,0 +1,21 @@
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.dll
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.dll
+C:\Users\malek\source\repos\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.pdb

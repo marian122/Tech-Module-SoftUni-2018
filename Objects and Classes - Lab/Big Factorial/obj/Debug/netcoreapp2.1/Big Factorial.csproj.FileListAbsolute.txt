@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.1\Big Factorial.deps.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.1\Big Factorial.runtimeconfig.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.1\Big Factorial.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.1\Big Factorial.dll
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp2.1\Big Factorial.pdb
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.1\Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.1\Big Factorial.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.1\Big Factorial.AssemblyInfo.cs
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.1\Big Factorial.dll
+C:\Users\malek\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp2.1\Big Factorial.pdb

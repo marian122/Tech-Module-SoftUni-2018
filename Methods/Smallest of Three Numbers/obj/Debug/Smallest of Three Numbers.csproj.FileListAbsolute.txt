@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Methods\Smallest of Three Numbers\bin\Debug\Smallest of Three Numbers.exe.config
+C:\Users\malek\source\repos\Methods\Smallest of Three Numbers\bin\Debug\Smallest of Three Numbers.exe
+C:\Users\malek\source\repos\Methods\Smallest of Three Numbers\bin\Debug\Smallest of Three Numbers.pdb
+C:\Users\malek\source\repos\Methods\Smallest of Three Numbers\obj\Debug\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\Smallest of Three Numbers\obj\Debug\Smallest of Three Numbers.exe
+C:\Users\malek\source\repos\Methods\Smallest of Three Numbers\obj\Debug\Smallest of Three Numbers.pdb

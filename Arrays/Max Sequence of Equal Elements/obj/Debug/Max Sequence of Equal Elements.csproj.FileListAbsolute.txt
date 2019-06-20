@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
+C:\Users\malek\source\repos\Arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
+C:\Users\malek\source\repos\Arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
+C:\Users\malek\source\repos\Arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
+C:\Users\malek\source\repos\Arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb

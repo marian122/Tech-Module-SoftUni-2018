@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Hornet Wings\bin\Debug\Hornet Wings.exe.config
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Hornet Wings\bin\Debug\Hornet Wings.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Hornet Wings\bin\Debug\Hornet Wings.pdb
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Hornet Wings\obj\Debug\Hornet Wings.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Hornet Wings\obj\Debug\Hornet Wings.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Hornet Wings\obj\Debug\Hornet Wings.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Hornet Wings\obj\Debug\Hornet Wings.pdb

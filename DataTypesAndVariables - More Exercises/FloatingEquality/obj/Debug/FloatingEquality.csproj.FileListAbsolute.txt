@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\FloatingEquality\bin\Debug\FloatingEquality.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\FloatingEquality\bin\Debug\FloatingEquality.exe
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\FloatingEquality\bin\Debug\FloatingEquality.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\FloatingEquality\obj\Debug\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\FloatingEquality\obj\Debug\FloatingEquality.exe
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\FloatingEquality\obj\Debug\FloatingEquality.pdb

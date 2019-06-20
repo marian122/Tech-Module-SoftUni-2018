@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\PokeMon.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\PokeMon.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\PokeMon.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\PokeMon.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\PokeMon.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\PokeMon.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\bin\Debug\netcoreapp2.1\1. Valid Usernames.deps.json
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\bin\Debug\netcoreapp2.1\1. Valid Usernames.runtimeconfig.json
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\bin\Debug\netcoreapp2.1\1. Valid Usernames.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\bin\Debug\netcoreapp2.1\1. Valid Usernames.dll
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\bin\Debug\netcoreapp2.1\1. Valid Usernames.pdb
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\obj\Debug\netcoreapp2.1\1. Valid Usernames.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\obj\Debug\netcoreapp2.1\1. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\obj\Debug\netcoreapp2.1\1. Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\obj\Debug\netcoreapp2.1\1. Valid Usernames.AssemblyInfo.cs
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\obj\Debug\netcoreapp2.1\1. Valid Usernames.dll
+C:\Users\malek\source\repos\Strings and string processing\1. Valid Usernames\obj\Debug\netcoreapp2.1\1. Valid Usernames.pdb

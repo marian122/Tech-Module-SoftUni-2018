@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists -- Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe.config
+C:\Users\malek\source\repos\Lists -- Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\malek\source\repos\Lists -- Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.pdb
+C:\Users\malek\source\repos\Lists -- Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists -- Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\malek\source\repos\Lists -- Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.pdb
+C:\Users\malek\source\repos\Lists -- Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csprojAssemblyReference.cache

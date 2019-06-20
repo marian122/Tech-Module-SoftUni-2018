@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\Songs.deps.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\Songs.runtimeconfig.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\Songs.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\Songs.dll
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\Songs.pdb
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\Songs.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\Songs.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\Songs.AssemblyInfo.cs
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\Songs.dll
+C:\Users\malek\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\Songs.pdb

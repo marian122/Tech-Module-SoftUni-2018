@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists - Arrays Advanced\softuniCoursePlaning\bin\Debug\softuniCoursePlaning.exe.config
+C:\Users\malek\source\repos\Lists - Arrays Advanced\softuniCoursePlaning\bin\Debug\softuniCoursePlaning.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\softuniCoursePlaning\bin\Debug\softuniCoursePlaning.pdb
+C:\Users\malek\source\repos\Lists - Arrays Advanced\softuniCoursePlaning\obj\Debug\softuniCoursePlaning.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\softuniCoursePlaning\obj\Debug\softuniCoursePlaning.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\softuniCoursePlaning\obj\Debug\softuniCoursePlaning.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\softuniCoursePlaning\obj\Debug\softuniCoursePlaning.pdb

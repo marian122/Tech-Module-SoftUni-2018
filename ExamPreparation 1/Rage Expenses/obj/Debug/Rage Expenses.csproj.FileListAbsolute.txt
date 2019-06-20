@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Rage Expenses\bin\Debug\Rage Expenses.exe.config
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Rage Expenses\bin\Debug\Rage Expenses.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Rage Expenses\bin\Debug\Rage Expenses.pdb
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Rage Expenses\obj\Debug\Rage Expenses.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Rage Expenses\obj\Debug\Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Rage Expenses\obj\Debug\Rage Expenses.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Rage Expenses\obj\Debug\Rage Expenses.pdb

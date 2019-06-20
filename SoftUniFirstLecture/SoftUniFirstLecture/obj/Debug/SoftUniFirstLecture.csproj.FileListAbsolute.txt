@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\SoftUniFirstLecture\SoftUniFirstLecture\bin\Debug\SoftUniFirstLecture.exe.config
+C:\Users\malek\source\repos\SoftUniFirstLecture\SoftUniFirstLecture\bin\Debug\SoftUniFirstLecture.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\SoftUniFirstLecture\bin\Debug\SoftUniFirstLecture.pdb
+C:\Users\malek\source\repos\SoftUniFirstLecture\SoftUniFirstLecture\obj\Debug\SoftUniFirstLecture.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\SoftUniFirstLecture\obj\Debug\SoftUniFirstLecture.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\SoftUniFirstLecture\obj\Debug\SoftUniFirstLecture.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\SoftUniFirstLecture\obj\Debug\SoftUniFirstLecture.pdb

@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\MidExamPreparation\01. Baking Masterclass\bin\Debug\_01.Baking_Masterclass.exe.config
+C:\Users\malek\source\repos\MidExamPreparation\01. Baking Masterclass\bin\Debug\_01.Baking_Masterclass.exe
+C:\Users\malek\source\repos\MidExamPreparation\01. Baking Masterclass\bin\Debug\_01.Baking_Masterclass.pdb
+C:\Users\malek\source\repos\MidExamPreparation\01. Baking Masterclass\obj\Debug\01. Baking Masterclass.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\MidExamPreparation\01. Baking Masterclass\obj\Debug\_01.Baking_Masterclass.exe
+C:\Users\malek\source\repos\MidExamPreparation\01. Baking Masterclass\obj\Debug\_01.Baking_Masterclass.pdb

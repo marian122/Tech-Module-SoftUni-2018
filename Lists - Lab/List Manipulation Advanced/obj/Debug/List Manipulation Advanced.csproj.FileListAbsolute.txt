@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists -- Lab\List Manipulation Advanced\bin\Debug\List Manipulation Advanced.exe.config
+C:\Users\malek\source\repos\Lists -- Lab\List Manipulation Advanced\bin\Debug\List Manipulation Advanced.exe
+C:\Users\malek\source\repos\Lists -- Lab\List Manipulation Advanced\bin\Debug\List Manipulation Advanced.pdb
+C:\Users\malek\source\repos\Lists -- Lab\List Manipulation Advanced\obj\Debug\List Manipulation Advanced.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Lists -- Lab\List Manipulation Advanced\obj\Debug\List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists -- Lab\List Manipulation Advanced\obj\Debug\List Manipulation Advanced.exe
+C:\Users\malek\source\repos\Lists -- Lab\List Manipulation Advanced\obj\Debug\List Manipulation Advanced.pdb

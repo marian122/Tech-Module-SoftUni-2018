@@ -1,0 +1,22 @@
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.dll
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.dll
+C:\Users\malek\source\repos\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\bin\Debug\netcoreapp2.1\FinalExamPreparation.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FinalExamPreparation\obj\Debug\netcoreapp2.1\FinalExamPreparation.pdb

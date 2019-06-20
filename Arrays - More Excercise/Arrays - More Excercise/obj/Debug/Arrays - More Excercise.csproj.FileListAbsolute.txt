@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Arrays - More Excercise\Arrays - More Excercise\bin\Debug\Arrays - More Excercise.exe.config
+C:\Users\malek\source\repos\Arrays - More Excercise\Arrays - More Excercise\bin\Debug\Arrays - More Excercise.exe
+C:\Users\malek\source\repos\Arrays - More Excercise\Arrays - More Excercise\bin\Debug\Arrays - More Excercise.pdb
+C:\Users\malek\source\repos\Arrays - More Excercise\Arrays - More Excercise\obj\Debug\Arrays - More Excercise.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Arrays - More Excercise\Arrays - More Excercise\obj\Debug\Arrays - More Excercise.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - More Excercise\Arrays - More Excercise\obj\Debug\Arrays - More Excercise.exe
+C:\Users\malek\source\repos\Arrays - More Excercise\Arrays - More Excercise\obj\Debug\Arrays - More Excercise.pdb

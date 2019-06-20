@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Methods\NxN Matrix\bin\Debug\NxN Matrix.exe.config
+C:\Users\malek\source\repos\Methods\NxN Matrix\bin\Debug\NxN Matrix.exe
+C:\Users\malek\source\repos\Methods\NxN Matrix\bin\Debug\NxN Matrix.pdb
+C:\Users\malek\source\repos\Methods\NxN Matrix\obj\Debug\NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\NxN Matrix\obj\Debug\NxN Matrix.exe
+C:\Users\malek\source\repos\Methods\NxN Matrix\obj\Debug\NxN Matrix.pdb

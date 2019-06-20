@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\bin\Debug\netcoreapp2.1\Dictionaries - Lab.deps.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\bin\Debug\netcoreapp2.1\Dictionaries - Lab.runtimeconfig.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\bin\Debug\netcoreapp2.1\Dictionaries - Lab.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\bin\Debug\netcoreapp2.1\Dictionaries - Lab.dll
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\bin\Debug\netcoreapp2.1\Dictionaries - Lab.pdb
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\obj\Debug\netcoreapp2.1\Dictionaries - Lab.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\obj\Debug\netcoreapp2.1\Dictionaries - Lab.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\obj\Debug\netcoreapp2.1\Dictionaries - Lab.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\obj\Debug\netcoreapp2.1\Dictionaries - Lab.AssemblyInfo.cs
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\obj\Debug\netcoreapp2.1\Dictionaries - Lab.dll
+C:\Users\malek\source\repos\Dictionaries - Lab\Dictionaries - Lab\obj\Debug\netcoreapp2.1\Dictionaries - Lab.pdb

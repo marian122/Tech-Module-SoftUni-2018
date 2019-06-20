@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.deps.json
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.runtimeconfig.json
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.runtimeconfig.dev.json
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.dll
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\bin\Debug\netcoreapp2.1\SoftUniCoffeOrders.pdb
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.AssemblyInfo.cs
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.dll
+C:\Users\malek\source\repos\ExamPreparation\SoftUniCoffeOrders\obj\Debug\netcoreapp2.1\SoftUniCoffeOrders.pdb

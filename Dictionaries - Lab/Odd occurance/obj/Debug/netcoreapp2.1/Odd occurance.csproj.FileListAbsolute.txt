@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\bin\Debug\netcoreapp2.1\Odd occurance.deps.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\bin\Debug\netcoreapp2.1\Odd occurance.runtimeconfig.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\bin\Debug\netcoreapp2.1\Odd occurance.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\bin\Debug\netcoreapp2.1\Odd occurance.dll
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\bin\Debug\netcoreapp2.1\Odd occurance.pdb
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\obj\Debug\netcoreapp2.1\Odd occurance.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\obj\Debug\netcoreapp2.1\Odd occurance.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\obj\Debug\netcoreapp2.1\Odd occurance.AssemblyInfo.cs
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\obj\Debug\netcoreapp2.1\Odd occurance.dll
+C:\Users\malek\source\repos\Dictionaries - Lab\Odd occurance\obj\Debug\netcoreapp2.1\Odd occurance.pdb

@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Arrays\Zig-Zag Arrays\bin\Debug\Zig-Zag Arrays.exe.config
+C:\Users\malek\source\repos\Arrays\Zig-Zag Arrays\bin\Debug\Zig-Zag Arrays.exe
+C:\Users\malek\source\repos\Arrays\Zig-Zag Arrays\bin\Debug\Zig-Zag Arrays.pdb
+C:\Users\malek\source\repos\Arrays\Zig-Zag Arrays\obj\Debug\Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays\Zig-Zag Arrays\obj\Debug\Zig-Zag Arrays.exe
+C:\Users\malek\source\repos\Arrays\Zig-Zag Arrays\obj\Debug\Zig-Zag Arrays.pdb
+C:\Users\malek\source\repos\Arrays\Zig-Zag Arrays\obj\Debug\Zig-Zag Arrays.csprojAssemblyReference.cache

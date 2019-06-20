@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays - Lab\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\malek\source\repos\Arrays - Lab\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\malek\source\repos\Arrays - Lab\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\malek\source\repos\Arrays - Lab\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - Lab\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\malek\source\repos\Arrays - Lab\DayOfWeek\obj\Debug\DayOfWeek.pdb

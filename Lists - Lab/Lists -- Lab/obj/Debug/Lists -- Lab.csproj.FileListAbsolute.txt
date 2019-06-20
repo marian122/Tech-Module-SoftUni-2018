@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists -- Lab\Lists -- Lab\bin\Debug\Lists -- Lab.exe.config
+C:\Users\malek\source\repos\Lists -- Lab\Lists -- Lab\bin\Debug\Lists -- Lab.exe
+C:\Users\malek\source\repos\Lists -- Lab\Lists -- Lab\bin\Debug\Lists -- Lab.pdb
+C:\Users\malek\source\repos\Lists -- Lab\Lists -- Lab\obj\Debug\Lists -- Lab.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Lists -- Lab\Lists -- Lab\obj\Debug\Lists -- Lab.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists -- Lab\Lists -- Lab\obj\Debug\Lists -- Lab.exe
+C:\Users\malek\source\repos\Lists -- Lab\Lists -- Lab\obj\Debug\Lists -- Lab.pdb

@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Lists - Arrays Advanced\bin\Debug\Lists - Arrays Advanced.exe.config
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Lists - Arrays Advanced\bin\Debug\Lists - Arrays Advanced.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Lists - Arrays Advanced\bin\Debug\Lists - Arrays Advanced.pdb
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Lists - Arrays Advanced\obj\Debug\Lists - Arrays Advanced.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Lists - Arrays Advanced\obj\Debug\Lists - Arrays Advanced.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Lists - Arrays Advanced\obj\Debug\Lists - Arrays Advanced.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Lists - Arrays Advanced\obj\Debug\Lists - Arrays Advanced.pdb

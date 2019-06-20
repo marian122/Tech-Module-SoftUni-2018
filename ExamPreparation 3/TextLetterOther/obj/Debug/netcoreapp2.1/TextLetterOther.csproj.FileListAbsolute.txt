@@ -1,0 +1,21 @@
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.dll
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.dll
+C:\Users\malek\source\repos\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\bin\Debug\netcoreapp2.1\TextLetterOther.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\TextLetterOther\obj\Debug\netcoreapp2.1\TextLetterOther.pdb

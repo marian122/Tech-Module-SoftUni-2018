@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\SoftUniFirstLecture\RageExpenses\bin\Debug\RageExpenses.exe.config
+C:\Users\malek\source\repos\SoftUniFirstLecture\RageExpenses\bin\Debug\RageExpenses.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\RageExpenses\bin\Debug\RageExpenses.pdb
+C:\Users\malek\source\repos\SoftUniFirstLecture\RageExpenses\obj\Debug\RageExpenses.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\RageExpenses\obj\Debug\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\RageExpenses\obj\Debug\RageExpenses.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\RageExpenses\obj\Debug\RageExpenses.pdb

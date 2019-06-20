@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Append Arrays\bin\Debug\Append Arrays.exe.config
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Append Arrays\bin\Debug\Append Arrays.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Append Arrays\bin\Debug\Append Arrays.pdb
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Append Arrays\obj\Debug\Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Append Arrays\obj\Debug\Append Arrays.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Append Arrays\obj\Debug\Append Arrays.pdb

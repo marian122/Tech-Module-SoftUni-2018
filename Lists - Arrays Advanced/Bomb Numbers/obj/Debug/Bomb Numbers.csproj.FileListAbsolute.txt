@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Bomb Numbers\bin\Debug\Bomb Numbers.exe.config
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Bomb Numbers\bin\Debug\Bomb Numbers.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Bomb Numbers\bin\Debug\Bomb Numbers.pdb
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Bomb Numbers\obj\Debug\Bomb Numbers.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Bomb Numbers\obj\Debug\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Bomb Numbers\obj\Debug\Bomb Numbers.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Bomb Numbers\obj\Debug\Bomb Numbers.pdb

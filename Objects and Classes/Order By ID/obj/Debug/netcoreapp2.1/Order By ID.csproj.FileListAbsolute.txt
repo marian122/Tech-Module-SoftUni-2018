@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\bin\Debug\netcoreapp2.1\Order By ID.deps.json
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\bin\Debug\netcoreapp2.1\Order By ID.runtimeconfig.json
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\bin\Debug\netcoreapp2.1\Order By ID.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\bin\Debug\netcoreapp2.1\Order By ID.dll
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\bin\Debug\netcoreapp2.1\Order By ID.pdb
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\obj\Debug\netcoreapp2.1\Order By ID.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\obj\Debug\netcoreapp2.1\Order By ID.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\obj\Debug\netcoreapp2.1\Order By ID.AssemblyInfo.cs
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\obj\Debug\netcoreapp2.1\Order By ID.dll
+C:\Users\malek\source\repos\Objects and Classes\Order By ID\obj\Debug\netcoreapp2.1\Order By ID.pdb

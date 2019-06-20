@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Lists -- Lab\Gauss Trick\bin\Debug\Gauss Trick.exe.config
+C:\Users\malek\source\repos\Lists -- Lab\Gauss Trick\bin\Debug\Gauss Trick.exe
+C:\Users\malek\source\repos\Lists -- Lab\Gauss Trick\bin\Debug\Gauss Trick.pdb
+C:\Users\malek\source\repos\Lists -- Lab\Gauss Trick\obj\Debug\Gauss Trick.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists -- Lab\Gauss Trick\obj\Debug\Gauss Trick.exe
+C:\Users\malek\source\repos\Lists -- Lab\Gauss Trick\obj\Debug\Gauss Trick.pdb

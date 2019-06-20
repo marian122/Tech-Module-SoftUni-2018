@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Methods\Factorial Division\bin\Debug\Factorial Division.exe.config
+C:\Users\malek\source\repos\Methods\Factorial Division\bin\Debug\Factorial Division.exe
+C:\Users\malek\source\repos\Methods\Factorial Division\bin\Debug\Factorial Division.pdb
+C:\Users\malek\source\repos\Methods\Factorial Division\obj\Debug\Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\Factorial Division\obj\Debug\Factorial Division.exe
+C:\Users\malek\source\repos\Methods\Factorial Division\obj\Debug\Factorial Division.pdb

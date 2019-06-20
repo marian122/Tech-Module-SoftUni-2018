@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\StudentAcademy\bin\Debug\StudentAcademy.exe.config
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\StudentAcademy\bin\Debug\StudentAcademy.exe
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\StudentAcademy\bin\Debug\StudentAcademy.pdb
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\StudentAcademy\obj\Debug\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\StudentAcademy\obj\Debug\StudentAcademy.exe
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\StudentAcademy\obj\Debug\StudentAcademy.pdb

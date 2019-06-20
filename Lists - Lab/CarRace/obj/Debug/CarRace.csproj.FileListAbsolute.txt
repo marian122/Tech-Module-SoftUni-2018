@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists -- Lab\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\malek\source\repos\Lists -- Lab\CarRace\bin\Debug\CarRace.exe
+C:\Users\malek\source\repos\Lists -- Lab\CarRace\bin\Debug\CarRace.pdb
+C:\Users\malek\source\repos\Lists -- Lab\CarRace\obj\Debug\CarRace.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Lists -- Lab\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists -- Lab\CarRace\obj\Debug\CarRace.exe
+C:\Users\malek\source\repos\Lists -- Lab\CarRace\obj\Debug\CarRace.pdb

@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\SoftUniFirstLecture\Print and Sum\bin\Debug\Print and Sum.exe.config
+C:\Users\malek\source\repos\SoftUniFirstLecture\Print and Sum\bin\Debug\Print and Sum.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\Print and Sum\bin\Debug\Print and Sum.pdb
+C:\Users\malek\source\repos\SoftUniFirstLecture\Print and Sum\obj\Debug\Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\Print and Sum\obj\Debug\Print and Sum.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\Print and Sum\obj\Debug\Print and Sum.pdb

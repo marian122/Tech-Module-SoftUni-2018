@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays - Lab\Equal Arrays\bin\Debug\Equal Arrays.exe.config
+C:\Users\malek\source\repos\Arrays - Lab\Equal Arrays\bin\Debug\Equal Arrays.exe
+C:\Users\malek\source\repos\Arrays - Lab\Equal Arrays\bin\Debug\Equal Arrays.pdb
+C:\Users\malek\source\repos\Arrays - Lab\Equal Arrays\obj\Debug\Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - Lab\Equal Arrays\obj\Debug\Equal Arrays.exe
+C:\Users\malek\source\repos\Arrays - Lab\Equal Arrays\obj\Debug\Equal Arrays.pdb

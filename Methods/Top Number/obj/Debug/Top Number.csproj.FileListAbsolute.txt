@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Methods\Top Number\bin\Debug\Top Number.exe.config
+C:\Users\malek\source\repos\Methods\Top Number\bin\Debug\Top Number.exe
+C:\Users\malek\source\repos\Methods\Top Number\bin\Debug\Top Number.pdb
+C:\Users\malek\source\repos\Methods\Top Number\obj\Debug\Top Number.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\Top Number\obj\Debug\Top Number.exe
+C:\Users\malek\source\repos\Methods\Top Number\obj\Debug\Top Number.pdb
+C:\Users\malek\source\repos\Methods\Top Number\obj\Debug\Top Number.csprojAssemblyReference.cache

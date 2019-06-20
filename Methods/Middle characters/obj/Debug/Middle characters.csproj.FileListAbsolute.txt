@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Methods\Middle characters\bin\Debug\Middle characters.exe.config
+C:\Users\malek\source\repos\Methods\Middle characters\bin\Debug\Middle characters.exe
+C:\Users\malek\source\repos\Methods\Middle characters\bin\Debug\Middle characters.pdb
+C:\Users\malek\source\repos\Methods\Middle characters\obj\Debug\Middle characters.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Methods\Middle characters\obj\Debug\Middle characters.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\Middle characters\obj\Debug\Middle characters.exe
+C:\Users\malek\source\repos\Methods\Middle characters\obj\Debug\Middle characters.pdb

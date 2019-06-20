@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\bin\Debug\netcoreapp2.1\FeedTheAnimals.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\bin\Debug\netcoreapp2.1\FeedTheAnimals.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\bin\Debug\netcoreapp2.1\FeedTheAnimals.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\bin\Debug\netcoreapp2.1\FeedTheAnimals.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\bin\Debug\netcoreapp2.1\FeedTheAnimals.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\obj\Debug\netcoreapp2.1\FeedTheAnimals.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\obj\Debug\netcoreapp2.1\FeedTheAnimals.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\obj\Debug\netcoreapp2.1\FeedTheAnimals.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\obj\Debug\netcoreapp2.1\FeedTheAnimals.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\obj\Debug\netcoreapp2.1\FeedTheAnimals.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\FeedTheAnimals\obj\Debug\netcoreapp2.1\FeedTheAnimals.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.dll
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.dll
+C:\Users\malek\source\repos\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\bin\Debug\netcoreapp2.1\MeTubeStatistics.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\MeTubeStatistics\obj\Debug\netcoreapp2.1\MeTubeStatistics.pdb

@@ -1,0 +1,21 @@
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.dll
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.dll
+C:\Users\malek\source\repos\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\bin\Debug\netcoreapp2.1\PostOffice.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\PostOffice\obj\Debug\netcoreapp2.1\PostOffice.pdb

@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\FinalExam\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.deps.json
+C:\Users\malek\source\repos\FinalExam\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExam\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExam\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.dll
+C:\Users\malek\source\repos\FinalExam\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.pdb
+C:\Users\malek\source\repos\FinalExam\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExam\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExam\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExam\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.dll
+C:\Users\malek\source\repos\FinalExam\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.pdb

@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\ConvertMetersToKilometers.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\ConvertMetersToKilometers.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\ConvertMetersToKilometers.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\ConvertMetersToKilometers.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\ConvertMetersToKilometers.pdb

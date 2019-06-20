@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\bin\Debug\netcoreapp2.1\Multiply chars.deps.json
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\bin\Debug\netcoreapp2.1\Multiply chars.runtimeconfig.json
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\bin\Debug\netcoreapp2.1\Multiply chars.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\bin\Debug\netcoreapp2.1\Multiply chars.dll
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\bin\Debug\netcoreapp2.1\Multiply chars.pdb
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\obj\Debug\netcoreapp2.1\Multiply chars.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\obj\Debug\netcoreapp2.1\Multiply chars.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\obj\Debug\netcoreapp2.1\Multiply chars.AssemblyInfo.cs
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\obj\Debug\netcoreapp2.1\Multiply chars.dll
+C:\Users\malek\source\repos\Strings and string processing\Multiply chars\obj\Debug\netcoreapp2.1\Multiply chars.pdb

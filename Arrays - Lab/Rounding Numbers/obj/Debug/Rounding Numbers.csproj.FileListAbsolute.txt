@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays - Lab\Rounding Numbers\bin\Debug\Rounding Numbers.exe.config
+C:\Users\malek\source\repos\Arrays - Lab\Rounding Numbers\bin\Debug\Rounding Numbers.exe
+C:\Users\malek\source\repos\Arrays - Lab\Rounding Numbers\bin\Debug\Rounding Numbers.pdb
+C:\Users\malek\source\repos\Arrays - Lab\Rounding Numbers\obj\Debug\Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - Lab\Rounding Numbers\obj\Debug\Rounding Numbers.exe
+C:\Users\malek\source\repos\Arrays - Lab\Rounding Numbers\obj\Debug\Rounding Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Exam Preparation for 04-11-2018\bin\Debug\Exam Preparation for 04-11-2018.exe.config
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Exam Preparation for 04-11-2018\bin\Debug\Exam Preparation for 04-11-2018.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Exam Preparation for 04-11-2018\bin\Debug\Exam Preparation for 04-11-2018.pdb
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Exam Preparation for 04-11-2018\obj\Debug\Exam Preparation for 04-11-2018.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Exam Preparation for 04-11-2018\obj\Debug\Exam Preparation for 04-11-2018.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Exam Preparation for 04-11-2018\obj\Debug\Exam Preparation for 04-11-2018.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Exam Preparation for 04-11-2018\obj\Debug\Exam Preparation for 04-11-2018.pdb

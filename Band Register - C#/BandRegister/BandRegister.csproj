@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject></StartupObject>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20181216073735_initial.cs" />
+    <Compile Remove="Migrations\20181216074223_database.cs" />
+    <Compile Remove="Migrations\20181216074840_initial.cs" />
+    <Compile Remove="Migrations\20181216074840_initial.Designer.cs" />
+    <Compile Remove="Migrations\20190310171734_database.cs" />
+    <Compile Remove="Migrations\20190310171734_database.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>

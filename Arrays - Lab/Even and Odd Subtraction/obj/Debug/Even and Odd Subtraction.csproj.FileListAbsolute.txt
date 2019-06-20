@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays - Lab\Even and Odd Subtraction\bin\Debug\Even and Odd Subtraction.exe.config
+C:\Users\malek\source\repos\Arrays - Lab\Even and Odd Subtraction\bin\Debug\Even and Odd Subtraction.exe
+C:\Users\malek\source\repos\Arrays - Lab\Even and Odd Subtraction\bin\Debug\Even and Odd Subtraction.pdb
+C:\Users\malek\source\repos\Arrays - Lab\Even and Odd Subtraction\obj\Debug\Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - Lab\Even and Odd Subtraction\obj\Debug\Even and Odd Subtraction.exe
+C:\Users\malek\source\repos\Arrays - Lab\Even and Odd Subtraction\obj\Debug\Even and Odd Subtraction.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.deps.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.runtimeconfig.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.dll
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.pdb
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.AssemblyInfo.cs
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.dll
+C:\Users\malek\source\repos\Objects and Classes - Lab\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.pdb

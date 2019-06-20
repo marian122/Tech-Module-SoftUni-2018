@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays\Top Integer\bin\Debug\Top Integer.exe.config
+C:\Users\malek\source\repos\Arrays\Top Integer\bin\Debug\Top Integer.exe
+C:\Users\malek\source\repos\Arrays\Top Integer\bin\Debug\Top Integer.pdb
+C:\Users\malek\source\repos\Arrays\Top Integer\obj\Debug\Top Integer.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays\Top Integer\obj\Debug\Top Integer.exe
+C:\Users\malek\source\repos\Arrays\Top Integer\obj\Debug\Top Integer.pdb

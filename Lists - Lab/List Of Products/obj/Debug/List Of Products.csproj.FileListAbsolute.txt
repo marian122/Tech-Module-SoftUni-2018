@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Lists -- Lab\List Of Products\bin\Debug\List Of Products.exe.config
+C:\Users\malek\source\repos\Lists -- Lab\List Of Products\bin\Debug\List Of Products.exe
+C:\Users\malek\source\repos\Lists -- Lab\List Of Products\bin\Debug\List Of Products.pdb
+C:\Users\malek\source\repos\Lists -- Lab\List Of Products\obj\Debug\List Of Products.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists -- Lab\List Of Products\obj\Debug\List Of Products.exe
+C:\Users\malek\source\repos\Lists -- Lab\List Of Products\obj\Debug\List Of Products.pdb

@@ -1,0 +1,22 @@
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.dll
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.dll
+C:\Users\malek\source\repos\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\bin\Debug\netcoreapp2.1\ChoreWars.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\ChoreWars\obj\Debug\netcoreapp2.1\ChoreWars.pdb

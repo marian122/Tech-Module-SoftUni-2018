@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Methods\Characters in Range\bin\Debug\Characters in Range.exe.config
+C:\Users\malek\source\repos\Methods\Characters in Range\bin\Debug\Characters in Range.exe
+C:\Users\malek\source\repos\Methods\Characters in Range\bin\Debug\Characters in Range.pdb
+C:\Users\malek\source\repos\Methods\Characters in Range\obj\Debug\Characters in Range.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\Characters in Range\obj\Debug\Characters in Range.exe
+C:\Users\malek\source\repos\Methods\Characters in Range\obj\Debug\Characters in Range.pdb
+C:\Users\malek\source\repos\Methods\Characters in Range\obj\Debug\Characters in Range.csprojAssemblyReference.cache

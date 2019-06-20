@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\bin\Debug\netcoreapp2.1\AnimalSanctuary.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\bin\Debug\netcoreapp2.1\AnimalSanctuary.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\bin\Debug\netcoreapp2.1\AnimalSanctuary.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\bin\Debug\netcoreapp2.1\AnimalSanctuary.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\bin\Debug\netcoreapp2.1\AnimalSanctuary.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\obj\Debug\netcoreapp2.1\AnimalSanctuary.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\obj\Debug\netcoreapp2.1\AnimalSanctuary.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\obj\Debug\netcoreapp2.1\AnimalSanctuary.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\obj\Debug\netcoreapp2.1\AnimalSanctuary.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\AnimalSanctuary\obj\Debug\netcoreapp2.1\AnimalSanctuary.pdb

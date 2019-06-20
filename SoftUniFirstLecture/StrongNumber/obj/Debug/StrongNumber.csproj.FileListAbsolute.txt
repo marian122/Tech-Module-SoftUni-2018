@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\SoftUniFirstLecture\StrongNumber\bin\Debug\StrongNumber.exe.config
+C:\Users\malek\source\repos\SoftUniFirstLecture\StrongNumber\bin\Debug\StrongNumber.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\StrongNumber\bin\Debug\StrongNumber.pdb
+C:\Users\malek\source\repos\SoftUniFirstLecture\StrongNumber\obj\Debug\StrongNumber.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\StrongNumber\obj\Debug\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\StrongNumber\obj\Debug\StrongNumber.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\StrongNumber\obj\Debug\StrongNumber.pdb

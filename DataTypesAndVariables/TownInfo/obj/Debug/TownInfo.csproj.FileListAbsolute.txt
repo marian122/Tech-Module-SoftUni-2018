@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\DataTypesAndVariables\TownInfo\bin\Debug\TownInfo.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables\TownInfo\bin\Debug\TownInfo.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\TownInfo\bin\Debug\TownInfo.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\TownInfo.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\TownInfo.pdb

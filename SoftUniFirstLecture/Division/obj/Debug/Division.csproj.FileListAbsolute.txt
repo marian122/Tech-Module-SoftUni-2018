@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\SoftUniFirstLecture\Division\bin\Debug\Division.exe.config
+C:\Users\malek\source\repos\SoftUniFirstLecture\Division\bin\Debug\Division.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\Division\bin\Debug\Division.pdb
+C:\Users\malek\source\repos\SoftUniFirstLecture\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\Division\obj\Debug\Division.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\Division\obj\Debug\Division.pdb

@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Charity Marathon\bin\Debug\Charity Marathon.exe.config
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Charity Marathon\bin\Debug\Charity Marathon.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Charity Marathon\bin\Debug\Charity Marathon.pdb
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Charity Marathon\obj\Debug\Charity Marathon.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Charity Marathon\obj\Debug\Charity Marathon.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Charity Marathon\obj\Debug\Charity Marathon.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Charity Marathon\obj\Debug\Charity Marathon.pdb

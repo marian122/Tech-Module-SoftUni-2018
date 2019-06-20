@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\bin\Debug\netcoreapp2.1\Strings and string processing.deps.json
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\bin\Debug\netcoreapp2.1\Strings and string processing.runtimeconfig.json
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\bin\Debug\netcoreapp2.1\Strings and string processing.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\bin\Debug\netcoreapp2.1\Strings and string processing.dll
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\bin\Debug\netcoreapp2.1\Strings and string processing.pdb
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\obj\Debug\netcoreapp2.1\Strings and string processing.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\obj\Debug\netcoreapp2.1\Strings and string processing.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\obj\Debug\netcoreapp2.1\Strings and string processing.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\obj\Debug\netcoreapp2.1\Strings and string processing.AssemblyInfo.cs
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\obj\Debug\netcoreapp2.1\Strings and string processing.dll
+C:\Users\malek\source\repos\Strings and string processing\Strings and string processing\obj\Debug\netcoreapp2.1\Strings and string processing.pdb

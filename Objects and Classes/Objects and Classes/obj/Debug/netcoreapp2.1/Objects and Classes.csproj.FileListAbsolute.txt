@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp2.1\Objects and Classes.deps.json
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp2.1\Objects and Classes.runtimeconfig.json
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp2.1\Objects and Classes.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp2.1\Objects and Classes.dll
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp2.1\Objects and Classes.pdb
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp2.1\Objects and Classes.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp2.1\Objects and Classes.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp2.1\Objects and Classes.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp2.1\Objects and Classes.AssemblyInfo.cs
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp2.1\Objects and Classes.dll
+C:\Users\malek\source\repos\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp2.1\Objects and Classes.pdb

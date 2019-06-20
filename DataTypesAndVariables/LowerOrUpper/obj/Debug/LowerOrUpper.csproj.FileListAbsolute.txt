@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\DataTypesAndVariables\LowerOrUpper\bin\Debug\LowerOrUpper.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables\LowerOrUpper\bin\Debug\LowerOrUpper.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\LowerOrUpper\bin\Debug\LowerOrUpper.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\LowerOrUpper.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\LowerOrUpper\obj\Debug\LowerOrUpper.pdb

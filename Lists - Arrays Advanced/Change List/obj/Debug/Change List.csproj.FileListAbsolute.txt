@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Change List\bin\Debug\Change List.exe.config
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Change List\bin\Debug\Change List.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Change List\bin\Debug\Change List.pdb
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Change List\obj\Debug\Change List.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Change List\obj\Debug\Change List.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Change List\obj\Debug\Change List.pdb
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Change List\obj\Debug\Change List.csprojAssemblyReference.cache

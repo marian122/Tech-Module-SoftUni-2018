@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\bin\Debug\netcoreapp2.1\Problem 3. Quests Journal.deps.json
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\bin\Debug\netcoreapp2.1\Problem 3. Quests Journal.runtimeconfig.json
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\bin\Debug\netcoreapp2.1\Problem 3. Quests Journal.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\bin\Debug\netcoreapp2.1\Problem 3. Quests Journal.dll
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\bin\Debug\netcoreapp2.1\Problem 3. Quests Journal.pdb
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\obj\Debug\netcoreapp2.1\Problem 3. Quests Journal.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\obj\Debug\netcoreapp2.1\Problem 3. Quests Journal.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\obj\Debug\netcoreapp2.1\Problem 3. Quests Journal.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\obj\Debug\netcoreapp2.1\Problem 3. Quests Journal.AssemblyInfo.cs
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\obj\Debug\netcoreapp2.1\Problem 3. Quests Journal.dll
+C:\Users\malek\source\repos\Exam\Problem 3. Quests Journal\obj\Debug\netcoreapp2.1\Problem 3. Quests Journal.pdb

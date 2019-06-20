@@ -1,0 +1,22 @@
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.dll
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.dll
+C:\Users\malek\source\repos\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\bin\Debug\netcoreapp2.1\Tseam account.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Tseam account\obj\Debug\netcoreapp2.1\Tseam account.pdb

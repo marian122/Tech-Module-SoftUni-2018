@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Methods\Palindrome Integers\bin\Debug\Palindrome Integers.exe.config
+C:\Users\malek\source\repos\Methods\Palindrome Integers\bin\Debug\Palindrome Integers.exe
+C:\Users\malek\source\repos\Methods\Palindrome Integers\bin\Debug\Palindrome Integers.pdb
+C:\Users\malek\source\repos\Methods\Palindrome Integers\obj\Debug\Palindrome Integers.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Methods\Palindrome Integers\obj\Debug\Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\Palindrome Integers\obj\Debug\Palindrome Integers.exe
+C:\Users\malek\source\repos\Methods\Palindrome Integers\obj\Debug\Palindrome Integers.pdb

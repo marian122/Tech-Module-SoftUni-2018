@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Iron Girder\bin\Debug\Iron Girder.exe.config
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Iron Girder\bin\Debug\Iron Girder.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Iron Girder\bin\Debug\Iron Girder.pdb
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Iron Girder\obj\Debug\Iron Girder.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Iron Girder\obj\Debug\Iron Girder.exe
+C:\Users\malek\source\repos\Exam Preparation for 04-11-2018\Iron Girder\obj\Debug\Iron Girder.pdb

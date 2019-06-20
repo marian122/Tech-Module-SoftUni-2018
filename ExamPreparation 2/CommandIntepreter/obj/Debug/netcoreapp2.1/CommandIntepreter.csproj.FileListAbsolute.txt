@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\bin\Debug\netcoreapp2.1\CommandIntepreter.deps.json
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\bin\Debug\netcoreapp2.1\CommandIntepreter.runtimeconfig.json
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\bin\Debug\netcoreapp2.1\CommandIntepreter.runtimeconfig.dev.json
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\bin\Debug\netcoreapp2.1\CommandIntepreter.dll
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\bin\Debug\netcoreapp2.1\CommandIntepreter.pdb
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\obj\Debug\netcoreapp2.1\CommandIntepreter.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\obj\Debug\netcoreapp2.1\CommandIntepreter.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\obj\Debug\netcoreapp2.1\CommandIntepreter.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\obj\Debug\netcoreapp2.1\CommandIntepreter.AssemblyInfo.cs
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\obj\Debug\netcoreapp2.1\CommandIntepreter.dll
+C:\Users\malek\source\repos\ExamPreparation\CommandIntepreter\obj\Debug\netcoreapp2.1\CommandIntepreter.pdb

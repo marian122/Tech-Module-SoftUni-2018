@@ -1,0 +1,21 @@
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.dll
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.dll
+C:\Users\malek\source\repos\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\bin\Debug\netcoreapp2.1\Substring.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Substring\obj\Debug\netcoreapp2.1\Substring.pdb

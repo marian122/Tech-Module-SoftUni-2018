@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Methods\Vowels Count\bin\Debug\Vowels Count.exe.config
+C:\Users\malek\source\repos\Methods\Vowels Count\bin\Debug\Vowels Count.exe
+C:\Users\malek\source\repos\Methods\Vowels Count\bin\Debug\Vowels Count.pdb
+C:\Users\malek\source\repos\Methods\Vowels Count\obj\Debug\Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Methods\Vowels Count\obj\Debug\Vowels Count.exe
+C:\Users\malek\source\repos\Methods\Vowels Count\obj\Debug\Vowels Count.pdb

@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays - Lab\Print Numbers in Reverse Order\bin\Debug\Print Numbers in Reverse Order.exe.config
+C:\Users\malek\source\repos\Arrays - Lab\Print Numbers in Reverse Order\bin\Debug\Print Numbers in Reverse Order.exe
+C:\Users\malek\source\repos\Arrays - Lab\Print Numbers in Reverse Order\bin\Debug\Print Numbers in Reverse Order.pdb
+C:\Users\malek\source\repos\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\Print Numbers in Reverse Order.exe
+C:\Users\malek\source\repos\Arrays - Lab\Print Numbers in Reverse Order\obj\Debug\Print Numbers in Reverse Order.pdb

@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays\Траин\bin\Debug\Траин.exe.config
+C:\Users\malek\source\repos\Arrays\Траин\bin\Debug\Траин.exe
+C:\Users\malek\source\repos\Arrays\Траин\bin\Debug\Траин.pdb
+C:\Users\malek\source\repos\Arrays\Траин\obj\Debug\Train.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays\Траин\obj\Debug\Траин.exe
+C:\Users\malek\source\repos\Arrays\Траин\obj\Debug\Траин.pdb

@@ -1,0 +1,22 @@
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.deps.json
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.dll
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.pdb
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.dll
+C:\Users\malek\source\repos\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.deps.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.runtimeconfig.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.runtimeconfig.dev.json
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\bin\Debug\netcoreapp2.1\Dictionaryy.pdb
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.AssemblyInfo.cs
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.dll
+C:\Users\malek\source\repos\TechModule 2018\FinalExamPreparation\Dictionary\obj\Debug\netcoreapp2.1\Dictionaryy.pdb

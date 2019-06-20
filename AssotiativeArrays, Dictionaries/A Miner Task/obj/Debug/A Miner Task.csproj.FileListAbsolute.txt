@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\A Miner Task\obj\Debug\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\A Miner Task\obj\Debug\A Miner Task.pdb

@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays - Lab\Condence Array To Number\bin\Debug\Condence Array To Number.exe.config
+C:\Users\malek\source\repos\Arrays - Lab\Condence Array To Number\bin\Debug\Condence Array To Number.exe
+C:\Users\malek\source\repos\Arrays - Lab\Condence Array To Number\bin\Debug\Condence Array To Number.pdb
+C:\Users\malek\source\repos\Arrays - Lab\Condence Array To Number\obj\Debug\Condence Array To Number.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - Lab\Condence Array To Number\obj\Debug\Condence Array To Number.exe
+C:\Users\malek\source\repos\Arrays - Lab\Condence Array To Number\obj\Debug\Condence Array To Number.pdb

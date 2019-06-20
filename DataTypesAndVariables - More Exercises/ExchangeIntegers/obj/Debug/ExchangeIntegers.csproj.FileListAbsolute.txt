@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\ExchangeIntegers\bin\Debug\ExchangeIntegers.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\ExchangeIntegers\bin\Debug\ExchangeIntegers.exe
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\ExchangeIntegers\bin\Debug\ExchangeIntegers.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\ExchangeIntegers\obj\Debug\ExchangeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\ExchangeIntegers\obj\Debug\ExchangeIntegers.exe
+C:\Users\malek\source\repos\DataTypesAndVariables - More Exercises\ExchangeIntegers\obj\Debug\ExchangeIntegers.pdb

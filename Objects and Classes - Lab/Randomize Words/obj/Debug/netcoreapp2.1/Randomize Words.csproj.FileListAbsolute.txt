@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp2.1\Randomize Words.deps.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp2.1\Randomize Words.runtimeconfig.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp2.1\Randomize Words.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp2.1\Randomize Words.dll
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp2.1\Randomize Words.pdb
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp2.1\Randomize Words.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp2.1\Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp2.1\Randomize Words.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp2.1\Randomize Words.AssemblyInfo.cs
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp2.1\Randomize Words.dll
+C:\Users\malek\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp2.1\Randomize Words.pdb

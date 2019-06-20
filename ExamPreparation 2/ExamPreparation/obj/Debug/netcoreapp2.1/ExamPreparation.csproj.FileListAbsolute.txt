@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.deps.json
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.runtimeconfig.json
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.runtimeconfig.dev.json
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.dll
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.pdb
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.AssemblyInfo.cs
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.dll
+C:\Users\malek\source\repos\ExamPreparation\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.pdb

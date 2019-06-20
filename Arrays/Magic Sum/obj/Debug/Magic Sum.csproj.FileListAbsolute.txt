@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Arrays\Magic Sum\bin\Debug\Magic Sum.exe.config
+C:\Users\malek\source\repos\Arrays\Magic Sum\bin\Debug\Magic Sum.exe
+C:\Users\malek\source\repos\Arrays\Magic Sum\bin\Debug\Magic Sum.pdb
+C:\Users\malek\source\repos\Arrays\Magic Sum\obj\Debug\Magic Sum.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Arrays\Magic Sum\obj\Debug\Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays\Magic Sum\obj\Debug\Magic Sum.exe
+C:\Users\malek\source\repos\Arrays\Magic Sum\obj\Debug\Magic Sum.pdb

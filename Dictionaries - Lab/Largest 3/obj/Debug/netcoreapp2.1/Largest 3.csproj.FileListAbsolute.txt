@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\bin\Debug\netcoreapp2.1\Largest 3.deps.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\bin\Debug\netcoreapp2.1\Largest 3.runtimeconfig.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\bin\Debug\netcoreapp2.1\Largest 3.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\bin\Debug\netcoreapp2.1\Largest 3.dll
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\bin\Debug\netcoreapp2.1\Largest 3.pdb
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\obj\Debug\netcoreapp2.1\Largest 3.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\obj\Debug\netcoreapp2.1\Largest 3.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\obj\Debug\netcoreapp2.1\Largest 3.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\obj\Debug\netcoreapp2.1\Largest 3.AssemblyInfo.cs
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\obj\Debug\netcoreapp2.1\Largest 3.dll
+C:\Users\malek\source\repos\Dictionaries - Lab\Largest 3\obj\Debug\netcoreapp2.1\Largest 3.pdb

@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Arrays - Lab\SumEvenElements\bin\Debug\SumEvenElements.exe.config
+C:\Users\malek\source\repos\Arrays - Lab\SumEvenElements\bin\Debug\SumEvenElements.exe
+C:\Users\malek\source\repos\Arrays - Lab\SumEvenElements\bin\Debug\SumEvenElements.pdb
+C:\Users\malek\source\repos\Arrays - Lab\SumEvenElements\obj\Debug\SumEvenElements.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Arrays - Lab\SumEvenElements\obj\Debug\SumEvenElements.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - Lab\SumEvenElements\obj\Debug\SumEvenElements.exe
+C:\Users\malek\source\repos\Arrays - Lab\SumEvenElements\obj\Debug\SumEvenElements.pdb

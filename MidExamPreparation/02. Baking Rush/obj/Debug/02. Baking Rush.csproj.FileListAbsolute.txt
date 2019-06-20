@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\MidExamPreparation\02. Baking Rush\bin\Debug\_02.Baking_Rush.exe.config
+C:\Users\malek\source\repos\MidExamPreparation\02. Baking Rush\bin\Debug\_02.Baking_Rush.exe
+C:\Users\malek\source\repos\MidExamPreparation\02. Baking Rush\bin\Debug\_02.Baking_Rush.pdb
+C:\Users\malek\source\repos\MidExamPreparation\02. Baking Rush\obj\Debug\02. Baking Rush.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\MidExamPreparation\02. Baking Rush\obj\Debug\02. Baking Rush.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\MidExamPreparation\02. Baking Rush\obj\Debug\_02.Baking_Rush.exe
+C:\Users\malek\source\repos\MidExamPreparation\02. Baking Rush\obj\Debug\_02.Baking_Rush.pdb

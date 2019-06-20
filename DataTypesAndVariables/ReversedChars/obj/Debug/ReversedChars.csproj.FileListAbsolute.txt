@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\ReversedChars.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\ReversedChars.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\ReversedChars.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\ReversedChars.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\ReversedChars.pdb

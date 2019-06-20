@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\SoftUniFirstLecture\PadawanEquipment\bin\Debug\PadawanEquipment.exe.config
+C:\Users\malek\source\repos\SoftUniFirstLecture\PadawanEquipment\bin\Debug\PadawanEquipment.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\PadawanEquipment\bin\Debug\PadawanEquipment.pdb
+C:\Users\malek\source\repos\SoftUniFirstLecture\PadawanEquipment\obj\Debug\PadawanEquipment.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\PadawanEquipment\obj\Debug\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\SoftUniFirstLecture\PadawanEquipment\obj\Debug\PadawanEquipment.exe
+C:\Users\malek\source\repos\SoftUniFirstLecture\PadawanEquipment\obj\Debug\PadawanEquipment.pdb

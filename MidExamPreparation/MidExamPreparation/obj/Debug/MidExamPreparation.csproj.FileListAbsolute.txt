@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\MidExamPreparation.exe.config
+C:\Users\malek\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\MidExamPreparation.exe
+C:\Users\malek\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\MidExamPreparation.pdb
+C:\Users\malek\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\MidExamPreparation.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\MidExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\MidExamPreparation.exe
+C:\Users\malek\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\MidExamPreparation.pdb

@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays - Lab\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.exe.config
+C:\Users\malek\source\repos\Arrays - Lab\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.exe
+C:\Users\malek\source\repos\Arrays - Lab\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.pdb
+C:\Users\malek\source\repos\Arrays - Lab\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays - Lab\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.exe
+C:\Users\malek\source\repos\Arrays - Lab\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.pdb

@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\Arrays\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+C:\Users\malek\source\repos\Arrays\ArrayRotation\bin\Debug\ArrayRotation.exe
+C:\Users\malek\source\repos\Arrays\ArrayRotation\bin\Debug\ArrayRotation.pdb
+C:\Users\malek\source\repos\Arrays\ArrayRotation\obj\Debug\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays\ArrayRotation\obj\Debug\ArrayRotation.exe
+C:\Users\malek\source\repos\Arrays\ArrayRotation\obj\Debug\ArrayRotation.pdb

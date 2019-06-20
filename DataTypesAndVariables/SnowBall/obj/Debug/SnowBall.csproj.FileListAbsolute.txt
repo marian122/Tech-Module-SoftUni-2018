@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\DataTypesAndVariables\SnowBall\bin\Debug\SnowBall.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables\SnowBall\bin\Debug\SnowBall.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\SnowBall\bin\Debug\SnowBall.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\SnowBall\obj\Debug\SnowBall.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\SnowBall\obj\Debug\SnowBall.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\SnowBall\obj\Debug\SnowBall.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\SnowBall\obj\Debug\SnowBall.pdb

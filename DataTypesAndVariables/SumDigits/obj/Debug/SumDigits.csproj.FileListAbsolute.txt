@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\DataTypesAndVariables\SumDigits\bin\Debug\SumDigits.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables\SumDigits\bin\Debug\SumDigits.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\SumDigits\bin\Debug\SumDigits.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\SumDigits.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\SumDigits.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\SumDigits.pdb

@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Strings and string processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.deps.json
+C:\Users\malek\source\repos\Strings and string processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.runtimeconfig.json
+C:\Users\malek\source\repos\Strings and string processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Strings and string processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.dll
+C:\Users\malek\source\repos\Strings and string processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.pdb
+C:\Users\malek\source\repos\Strings and string processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Strings and string processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Strings and string processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.AssemblyInfo.cs
+C:\Users\malek\source\repos\Strings and string processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.dll
+C:\Users\malek\source\repos\Strings and string processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.pdb

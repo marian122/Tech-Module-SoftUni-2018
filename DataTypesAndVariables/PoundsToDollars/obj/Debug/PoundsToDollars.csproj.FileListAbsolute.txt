@@ -1,0 +1,6 @@
+C:\Users\malek\source\repos\DataTypesAndVariables\PoundsToDollars\bin\Debug\PoundsToDollars.exe.config
+C:\Users\malek\source\repos\DataTypesAndVariables\PoundsToDollars\bin\Debug\PoundsToDollars.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\PoundsToDollars\bin\Debug\PoundsToDollars.pdb
+C:\Users\malek\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\PoundsToDollars.exe
+C:\Users\malek\source\repos\DataTypesAndVariables\PoundsToDollars\obj\Debug\PoundsToDollars.pdb

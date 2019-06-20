@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\AssotiativeArrays, Dictionaries\bin\Debug\AssotiativeArrays, Dictionaries.exe.config
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\AssotiativeArrays, Dictionaries\bin\Debug\AssotiativeArrays, Dictionaries.exe
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\AssotiativeArrays, Dictionaries\bin\Debug\AssotiativeArrays, Dictionaries.pdb
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\AssotiativeArrays, Dictionaries\obj\Debug\AssotiativeArrays, Dictionaries.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\AssotiativeArrays, Dictionaries\obj\Debug\AssotiativeArrays, Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\AssotiativeArrays, Dictionaries\obj\Debug\AssotiativeArrays, Dictionaries.exe
+C:\Users\malek\source\repos\AssotiativeArrays, Dictionaries\AssotiativeArrays, Dictionaries\obj\Debug\AssotiativeArrays, Dictionaries.pdb

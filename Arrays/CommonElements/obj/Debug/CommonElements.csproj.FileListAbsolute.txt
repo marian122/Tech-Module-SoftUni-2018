@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Arrays\CommonElements\bin\Debug\CommonElements.exe.config
+C:\Users\malek\source\repos\Arrays\CommonElements\bin\Debug\CommonElements.exe
+C:\Users\malek\source\repos\Arrays\CommonElements\bin\Debug\CommonElements.pdb
+C:\Users\malek\source\repos\Arrays\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Arrays\CommonElements\obj\Debug\CommonElements.exe
+C:\Users\malek\source\repos\Arrays\CommonElements\obj\Debug\CommonElements.pdb
+C:\Users\malek\source\repos\Arrays\CommonElements\obj\Debug\CommonElements.csprojAssemblyReference.cache

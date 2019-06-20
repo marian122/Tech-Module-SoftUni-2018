@@ -1,0 +1,7 @@
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Cards Game\bin\Debug\Cards Game.exe.config
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Cards Game\bin\Debug\Cards Game.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Cards Game\bin\Debug\Cards Game.pdb
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Cards Game\obj\Debug\Cards Game.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Cards Game\obj\Debug\Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Cards Game\obj\Debug\Cards Game.exe
+C:\Users\malek\source\repos\Lists - Arrays Advanced\Cards Game\obj\Debug\Cards Game.pdb
